@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Dagger 2</string>
+    <string name="di_worked">Dependency injection worked: %1s</string>
+</resources>
